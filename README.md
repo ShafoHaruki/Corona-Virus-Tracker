@@ -14,4 +14,12 @@ You will also see any lint errors in the console.
 
 ## Dependencies used
 
-MaterialUI is used. It is like bootstrapped, but more sophisticated and more suited for React it seems.
+MaterialUI<br />
+It is like bootstrapped, but more sophisticated and more suited for React it seems.
+https://material-ui.com/components/cards/
+
+Classnames<br />
+A simple JavaScript utility for conditionally joining classNames together.
+
+ChartJS
+I used bar chart and line chart.
